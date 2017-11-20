@@ -14,8 +14,8 @@
 }
 
 {
-    test: > 123
-          > *bold*
+    test: > 123 <p>
+          > *bold* </p>
           > _underlined_
 }
 
