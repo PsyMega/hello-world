@@ -19,8 +19,13 @@
           > _underlined_ <br>
           > nother </br>
           > anotherone
+          //comment
+          /comment/
 }
 
     testnoparentesis
+    
+    //comment
+    /comment/
     
     done
