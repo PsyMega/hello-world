@@ -17,11 +17,11 @@
     
     
 <html>
-    <body>
+<body>
 
     <h1>This is a Heading</h1>
     <p>This is a paragraph.</p>
 
-    </body>
+</body>
 </html>
 
