@@ -16,7 +16,9 @@
 {
     test: > 123 <p>
           > *bold* </p>
-          > _underlined_
+          > _underlined_ <br>
+          > nother </br>
+          > anotherone
 }
 
     testnoparentesis
