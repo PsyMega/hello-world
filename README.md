@@ -12,3 +12,20 @@
         "avatar": "b004ec1740a63ca06ae2e14c5cee11f3"
     }
 }
+
+{
+    test: > 123 <p>
+          > *bold* </p>
+          > _underlined_ <br>
+          > nother </br>
+          > anotherone
+          //comment
+          /comment/
+}
+
+    testnoparentesis
+    
+    //comment
+    /comment/
+    
+    done
