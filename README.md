@@ -29,3 +29,7 @@
     /comment/
     
     done
+
+<body>
+    This is a Test Body.
+</body>
